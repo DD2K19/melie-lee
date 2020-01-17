@@ -1,0 +1,76 @@
+
+                                                                          /* divz */
+
+.div1{
+  height: 750px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #064acb;
+  text-align: center;
+  padding-top: 200px
+}
+.nandc{
+  text-align: center;
+}
+.animalia{
+  text-align: center;
+}
+.m{
+  text-align: center;
+}
+.end{
+  text-align: center;
+}
+
+                                                                          /* Text */
+
+.intro{
+  font-size: 7rem;
+  font-family: 'Turret Road', cursive;
+  color: #66fbfb;
+}
+.intro-sub{
+  font-size: 1.1rem;
+  font-family: 'Cairo', sans-serif;
+  color: white;
+}
+.ndesc{}
+.adesc{}
+.ppersonal{}
+.personal{}
+.endd{}
+.emessage{}
+.a{}
+.b{}
+.c{}
+.d{}
+.e{}
+.f{}
+.g{}
+.h{}
+.i{}
+.j{}
+.mmm{}
+                                                               /* IMAGES */
+
+.img1{
+      border-radius: 50px;
+      position: absolute;
+      left: 30px;
+      top: 40px;
+      background-color: #66fbfb;
+}
+.img2{
+  position: absolute;
+  left: 50px;
+  top: 700px;
+}
+.img3{}
+.img4{}
+.img5{}
+.img6{}
+.img7{}
+.img8{}
+.img9{}
